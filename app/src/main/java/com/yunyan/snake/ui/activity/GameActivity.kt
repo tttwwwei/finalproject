@@ -10,6 +10,7 @@ import com.yunyan.snake.ui.widget.DirectionStateEnum
 import com.yunyan.snake.ui.widget.GameStateEnum
 import com.yunyan.snake.R
 import com.yunyan.snake.utils.MusicUtils
+import com.yunyan.snake.utils.SpUtils
 import com.yunyan.snake.ui.widget.BackgroundView
 import com.yunyan.snake.ui.widget.IKeyData
 import com.yunyan.snake.ui.widget.KeyView
